@@ -2,7 +2,7 @@
 
 ### AI Backend · LLM/RAG · XR/AI Research & Education Lead
 
-Python · Django REST Framework · FastAPI · LLM/RAG · Unity · OpenCV · WebSocket · Docker · AWS
+Python · Django REST Framework · FastAPI · LLM/RAG · Unity · OpenCV · WebSocket · Docker · Kubernetes · Prometheus ·  Grafana · AWS 
 
 ---
 
