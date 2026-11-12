@@ -78,33 +78,41 @@ R&D Project PM/PL
 - **Technical Documentation & Collaboration**  
   GitHub, README, API 명세서, 시스템 아키텍처, 데이터 정의서, 테스트·성능보고서, 연구·발표자료까지 연결하는 산출물 중심 프로젝트 운영
 
-### End-to-End AI Development
 
-```text
-프로젝트 기획 및 요구사항 분석
-            ↓
-데이터 수집 · 촬영 · 라벨링
-            ↓
-데이터 전처리 · 품질검증
-            ↓
-AI 모델 학습 · 성능평가
-            ↓
-객체검출 · 자세추정 · 동작인식
-            ↓
-API 개발 · 실시간 시스템 연동
-            ↓
-ONNX · TensorRT 모델 최적화
-            ↓
-Jetson · Raspberry Pi · AWS 배포
-            ↓
-산업용 카메라 · 컨베이어 · 센서 연동
-            ↓
-실시간 AI 추론 · 결과 시각화
-            ↓
-Prometheus · Grafana 모니터링
-            ↓
-성능검증 · 기술문서화 · 운영
+## 🔄 End-to-End AI Development
+
+**From AI Research & Development to Real-World Deployment**
+
+AI 프로젝트의 기획부터 데이터 구축, 모델 개발, 실시간 시스템 연동,
+Edge AI·Cloud 배포, 운영 및 모니터링까지
+전체 개발 생명주기를 연결하는 것을 지향합니다.
+
+```mermaid
+flowchart TB
+    A["01. Planning & Design<br/>프로젝트 기획 · 요구사항 분석"]
+    B["02. Data Engineering<br/>데이터 수집 · 촬영 · 라벨링<br/>전처리 · 품질검증"]
+    C["03. AI Model Development<br/>모델 학습 · 성능평가<br/>객체검출 · 자세추정 · 동작인식"]
+    D["04. Backend & Optimization<br/>API 개발 · 실시간 시스템 연동<br/>ONNX · TensorRT 모델 최적화"]
+    E["05. Deployment & Integration<br/>Jetson · Raspberry Pi · AWS 배포<br/>산업용 카메라 · 컨베이어 · 센서 연동"]
+    F["06. Operations & Monitoring<br/>실시간 AI 추론 · 결과 시각화<br/>Prometheus · Grafana 모니터링<br/>성능검증 · 기술문서화 · 운영"]
+
+    A --> B --> C --> D --> E --> F
+
+    classDef planning fill:#E8EAF6,stroke:#3949AB,color:#1A237E,stroke-width:2px
+    classDef data fill:#E3F2FD,stroke:#1976D2,color:#0D47A1,stroke-width:2px
+    classDef ai fill:#E8F5E9,stroke:#388E3C,color:#1B5E20,stroke-width:2px
+    classDef backend fill:#FFF3E0,stroke:#F57C00,color:#E65100,stroke-width:2px
+    classDef deploy fill:#F3E5F5,stroke:#8E24AA,color:#4A148C,stroke-width:2px
+    classDef operate fill:#E0F2F1,stroke:#00897B,color:#004D40,stroke-width:2px
+
+    class A planning
+    class B data
+    class C ai
+    class D backend
+    class E deploy
+    class F operate
 ```
+
 
 **개별 AI 기술을 실제 동작하는 서비스와 산업현장 시스템으로 통합하고, 그 개발 경험을 연구·교육·프로젝트 성과로 연결하는 것을 목표로 합니다.**
 
