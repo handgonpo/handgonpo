@@ -6,7 +6,7 @@ Python · Django REST Framework · FastAPI · LLM/RAG · Unity · OpenCV · WebS
 
 ---
 
-## About
+## About me
 
 저는 **AI Backend, LLM/RAG, XR·Simulation 기술을 실무형 서비스와 교육 포트폴리오로 연결하는 융합형 개발·교육 전문가**입니다.
 
