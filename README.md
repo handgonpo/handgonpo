@@ -1,20 +1,28 @@
 # 이유정 | Youjung Lee
 
-### AI Backend · LLM/RAG · XR/AI Research & Education Lead
+### AI Backend · Vision AI · LLM/RAG · XR/Simulation | Research & Education Lead
 
-Python · Django REST Framework · FastAPI · LLM/RAG · Unity · OpenCV · WebSocket · Docker · Kubernetes · Prometheus ·  Grafana · AWS 
+**AI Backend & API** · **Vision AI & Edge AI** · **LLM/RAG** · **XR/Simulation** · **Cloud & DevOps**
+
+Python · Django REST Framework · FastAPI · PyTorch · OpenCV · YOLO · Unity · Unreal Engine · ONNX · TensorRT · Docker · Kubernetes · AWS
 
 ---
 
-## About me
+## About Me
 
-저는 **AI Backend, LLM/RAG, XR·Simulation 기술을 실무형 서비스와 교육 포트폴리오로 연결하는 융합형 개발·교육 전문가**입니다.
+저는 **AI Backend, Vision AI, LLM/RAG, XR·Simulation 기술을 융합하여 실제 서비스와 산업현장에 적용하는 AI 융합 개발·연구·교육 전문가**입니다.
 
-AI Big Data 기반의 석·박사 연구 경험을 바탕으로,  
-Python 백엔드, AI 서비스 아키텍처, Unity/XR 시뮬레이션, 컴퓨터 비전, 실시간 데이터 처리 시스템을 다루고 있습니다.
+AI·Big Data 기반의 석사 학위와 박사과정 연구 경험을 바탕으로, Python 백엔드 및 REST API 설계, AI 모델 개발과 서비스 연동, 컴퓨터 비전과 실시간 영상처리, Unity·Unreal Engine 기반 XR·Simulation 시스템을 다루고 있습니다.
 
-기술을 단순히 구현하는 데서 멈추지 않고,  
-**기획 → 데이터 설계 → API 개발 → AI 모델 연동 → 실시간 처리 → 배포 → 모니터링 → 기술문서화**까지 연결하는 프로젝트형 개발과 교육을 지향합니다.
+특히 **Vision AI 모델 개발부터 ONNX·TensorRT 기반 모델 최적화, NVIDIA Jetson·Raspberry Pi 기반 Edge AI, AWS 클라우드 배포, Docker·Kubernetes 기반 운영, Prometheus·Grafana 모니터링**까지 AI 시스템의 전체 개발·운영 흐름을 연결하는 데 관심을 두고 있습니다.
+
+기술을 단순히 구현하는 데서 멈추지 않고,
+
+**기획 → 데이터 수집·설계 → AI 모델 개발 → API·실시간 시스템 연동 → 모델 최적화 → Cloud·Edge 배포 → 모니터링 → 성능평가 → 기술문서화**
+
+로 이어지는 End-to-End 프로젝트 수행을 지향합니다.
+
+또한 실무 개발과 연구 경험을 교육에 연결하여, 학습자가 기술의 원리를 이해하고 실제 동작하는 결과물을 완성할 수 있도록 **프로젝트 기반 학습(PBL), 실습 중심 커리큘럼 설계, AI 융합 프로젝트 멘토링**을 수행하고 있습니다.
 
 ---
 
