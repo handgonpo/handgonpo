@@ -29,22 +29,84 @@ AI·Big Data 기반의 석사 학위와 박사과정 연구 경험을 바탕으�
 ## Professional Identity
 
 ```text
-AI Backend Engineer
-LLM/RAG Service Designer
-XR/Unity Simulation Developer
+AI Backend & Vision AI Engineer
+LLM/RAG Service Architect
+Computer Vision & Action Recognition Developer
+Industrial Vision AI & Edge AI Developer
+XR/Unity/Unreal Simulation Developer
+Cloud & MLOps Engineer
 Project-Based AI Education Lead
 R&D Project PM/PL
 ```
 
-저의 강점은 서로 분리되어 보이는 기술들을 하나의 서비스 흐름으로 연결하는 것입니다.
+저의 강점은 **AI Backend, Computer Vision, Edge AI, XR·Simulation, Cloud 기술을 하나의 서비스와 산업현장 시스템으로 연결하는 것**입니다.
 
-- AI Backend와 LLM/RAG 기반 서비스 구조 설계
-- Django REST Framework, FastAPI 기반 API 서버 개발
-- Unity, XR, Simulation Data 기반 실감형 콘텐츠 설계
-- OpenCV, MediaPipe, YOLO 기반 컴퓨터 비전 응용
-- WebSocket, Redis, Celery 기반 실시간 데이터 처리
-- Docker, AWS, GitHub Actions 기반 배포 및 운영 흐름 구성
-- GitHub, README, API 명세서, 기술문서, 발표자료까지 연결하는 산출물 중심 프로젝트 운영
+단순한 모델 개발이나 개별 기능 구현을 넘어, **데이터 수집부터 AI 모델 학습·추론, API 개발, 실시간 영상처리, 산업용 장비 연동, Edge·Cloud 배포, 성능평가 및 모니터링**까지 전체 시스템의 흐름을 설계하고 구현하는 데 중점을 두고 있습니다.
+
+### Core Competencies
+
+- **AI Backend & API Architecture**  
+  Python, Django REST Framework, FastAPI 기반 백엔드 서비스 및 REST API 설계·개발
+
+- **LLM/RAG & AI Service Integration**  
+  OpenAI API, LLM/RAG 기반 지식검색·질의응답 시스템 및 AI 서비스 아키텍처 설계
+
+- **Computer Vision & Vision AI**  
+  OpenCV, YOLO, MediaPipe, PyTorch 기반 객체검출, 이미지 분류, 영상 전처리, 자세추정 및 시각 데이터 분석
+
+- **Pose Estimation & Action Recognition**  
+  2D Pose Estimation, COCO Keypoint, Skeleton, 관절각도, 시계열 Feature 분석을 활용한 사람의 동작 추론·분류 및 이상 움직임 탐지
+
+- **Industrial Vision AI & Smart Factory**  
+  산업용 카메라, 컨베이어 벨트, 조명 시스템과 Vision AI를 연동한 실시간 제품검사, 이물·불량 검출 및 검사 결과 모니터링 시스템 설계
+
+- **Edge AI & Model Deployment**  
+  NVIDIA Jetson Orin Nano Super, Raspberry Pi 기반 Edge AI 시스템 구성 및 ONNX·TensorRT 모델 변환·최적화·추론 환경 구축
+
+- **XR / Simulation & Motion Capture**  
+  Unity, C#, Unreal Engine, Blender, VICON 기반 XR·Simulation 콘텐츠 및 3D 모션데이터 처리·시각화 시스템 개발
+
+- **Real-Time Data Processing**  
+  WebSocket, Redis, Celery 기반 실시간 통신, 비동기 작업 처리, AI 추론 결과 전달 및 데이터 처리 파이프라인 구성
+
+- **Cloud / DevOps / MLOps**  
+  Docker, Kubernetes, AWS EC2·S3·G5, Nginx, GitHub Actions 기반 배포 및 CI/CD 구성과 Prometheus·Grafana 기반 시스템 모니터링
+
+- **R&D Project Management & AI Education**  
+  AI 융합 연구개발 프로젝트 기획, 기술 아키텍처 설계, PM/PL, 프로젝트 기반 학습(PBL) 커리큘럼 설계 및 기술 멘토링
+
+- **Technical Documentation & Collaboration**  
+  GitHub, README, API 명세서, 시스템 아키텍처, 데이터 정의서, 테스트·성능보고서, 연구·발표자료까지 연결하는 산출물 중심 프로젝트 운영
+
+### End-to-End AI Development
+
+```text
+프로젝트 기획 및 요구사항 분석
+            ↓
+데이터 수집 · 촬영 · 라벨링
+            ↓
+데이터 전처리 · 품질검증
+            ↓
+AI 모델 학습 · 성능평가
+            ↓
+객체검출 · 자세추정 · 동작인식
+            ↓
+API 개발 · 실시간 시스템 연동
+            ↓
+ONNX · TensorRT 모델 최적화
+            ↓
+Jetson · Raspberry Pi · AWS 배포
+            ↓
+산업용 카메라 · 컨베이어 · 센서 연동
+            ↓
+실시간 AI 추론 · 결과 시각화
+            ↓
+Prometheus · Grafana 모니터링
+            ↓
+성능검증 · 기술문서화 · 운영
+```
+
+**개별 AI 기술을 실제 동작하는 서비스와 산업현장 시스템으로 통합하고, 그 개발 경험을 연구·교육·프로젝트 성과로 연결하는 것을 목표로 합니다.**
 
 ---
 
