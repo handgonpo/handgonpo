@@ -152,16 +152,19 @@ flowchart TB
 
 ---
 
-## 🧭 Experience & PBL Education
+## 🧭 Professional Experience & PBL Education
 
-| 기간 | 조직 / 역할 | 핵심 업무 |
+**AI 연구개발, 산업용 Vision AI, 풀스택 서비스 개발, 프로젝트 기반 교육(PBL)을 연결하는 융합형 전문가**
+
+| 전문 분야 | 주요 역할 | 핵심 역량 및 수행 업무 |
 | :--- | :--- | :--- |
-| **2026.10–현재** | Vision AI·산업 Vertical AI 전문과정 · **주강사** | 제조·산업안전 분야 실습, 컴퓨터 비전·Edge AI·프로젝트 지도 |
-| **2026.06–현재** | **기술부설연구소 소장(비상근) / PL** | 지오펜싱 기반 산업안전 관제 R&D, 기술 아키텍처·개발 관리 |
-| **2025.11–2026.07** | 교육기관 **주강사** | Python·DRF·FastAPI·LLM/RAG, AI 서비스 MVP 및 포트폴리오 지도 |
-| **2024.03–2025.06** | 국민대학교 · **캡스톤 멘토** | PoC·논문·시제품 제작, 코드 리뷰·발표·연구 멘토링 |
-| **2023.01–2025.01** | 3D LAB 부서 **부장 / PM·PL / 연구원** | AI·VR·XR·로봇 데이터·R&D 과제 총괄 및 납품 |
-| **2019.08–2022.07** | KM Academy & SSM · **Program Director** | 해외 교육기관 운영, IT·AI·Unity 교육과정·산학 프로젝트 기획 |
+| **AI R&D / Project Leadership** | 연구개발 책임자 · PM/PL | 국책 R&D 과제 기획, 기술 아키텍처 설계, 개발 관리 및 성과·산출물 관리 |
+| **Industrial Vision AI & Edge AI** | AI 개발 · 기술교육 | 객체검출, 자세추정·동작인식, 산업안전 관제, Jetson·산업장비 연동 |
+| **AI Backend & LLM/RAG** | 풀스택 개발 · 주강사 | Python, DRF, FastAPI, LLM/RAG 기반 AI 서비스 개발 및 배포 교육 |
+| **XR / Simulation R&D** | 개발 총괄 · PM/PL | Unity·Unreal 기반 XR 콘텐츠, AI 시뮬레이션, 로봇 학습데이터 구축 |
+| **University Capstone & PBL** | 연구·프로젝트 멘토 | PoC·시제품 개발, 논문·기술문서 지도, 코드 리뷰 및 프로젝트 평가 |
+| **IT·AI Education Leadership** | 교육과정 총괄 | 국내외 IT·AI 교육과정 설계·운영, PBL 교육, 산학협력 및 취업 포트폴리오 지도 |
+
 
 ### PBL: 학습에서 면접까지 이어지는 교육 설계
 
@@ -180,12 +183,15 @@ flowchart TB
 - **국제 교육:** 해외 IT·AI·Unity 교육과정 및 교육기관 운영 경험
 - **카이스트 및 인서울 대학교:** 직무특강
 
-### Research & Education
+### 🔬 Research & Education
 
-- **연구 주제:** 위치기반 조건 반응 애플리케이션, AR 기반 서비스, 가상 착용 기술, 오픈소스 sLLM 연구
-- **학력:** 박사
-- **박사논문:** *Development of sLLMs using the Open-Source Sakura-SOLAR-Instruct Model*
-- **직업훈련교사 자격 분야:** 인공지능, 정보기술개발, 문화콘텐츠, 멀티미디어 등
+**AI·데이터 기반 연구개발과 실무형 프로젝트 교육(PBL)을 연결하는 연구·교육 전문성**
+
+- **AI Research:** LLM/sLLM, 생성형 AI, 데이터 기반 지능형 서비스 및 AI 응용기술 연구
+- **Applied R&D:** 위치기반 서비스, AR/XR, 가상 시뮬레이션, AI 융합 시스템 연구개발
+- **AI Education:** AI Backend, Vision AI, LLM/RAG, XR·Simulation 기반 실무형 교육과정 설계
+- **PBL & Mentoring:** 프로젝트 기획, PoC·시제품 개발, 코드 리뷰, 기술문서화 및 연구 멘토링
+- **Professional Qualifications:** AI·IT·디지털 콘텐츠 분야 직업훈련교사 자격 및 전문교육 역량
 
 ---
 
