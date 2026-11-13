@@ -182,7 +182,7 @@ flowchart TB
 ### Research & Education
 
 - **연구 주제:** 위치기반 조건 반응 애플리케이션, AR 기반 서비스, 가상 착용 기술, 오픈소스 sLLM 연구
-- **학력:** Swiss School of Management **DBA**(박사논문 심사 통과 및 졸업), 서울디지털대학교 멀티미디어공학과 졸업
+- **학력:** 박사
 - **박사논문:** *Development of sLLMs using the Open-Source Sakura-SOLAR-Instruct Model*
 - **직업훈련교사 자격 분야:** 인공지능, 정보기술개발, 문화콘텐츠, 멀티미디어 등
 
